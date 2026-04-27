@@ -1,1 +1,1 @@
-# Times series anomaly detection on Twitter mention volumes
+# Times Series Anomaly Detection on Twitter Mention Volumes
